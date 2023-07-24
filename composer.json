@@ -1,5 +1,5 @@
 {
-    "name": "corp-soft/laravel-fixtures",
+    "name": "vladochek/laravel-fixtures",
     "description": "Laravel Fixtures are used to load a 'fake' set of data into a database that can then be used for testing",
     "type": "library",
     "keywords": [
@@ -19,7 +19,7 @@
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "~2.0",
-        "phpunit/phpunit": "~6.0",
+        "phpunit/phpunit": "~9.0",
         "orchestra/testbench": "~3.5.0"
     },
     "autoload": {
